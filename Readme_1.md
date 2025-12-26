@@ -40,7 +40,7 @@ Install via pip:
 pip install numpy matplotlib pandas opencv-python scikit-image
 
 
-5. Methodology – Step by Step
+##4. **Methodology** – Step by Step
 
 Step 1: Load RGB Image
 - Read the image using OpenCV and convert from BGR → RGB.
@@ -92,10 +92,10 @@ Step 10: Pixel-Level Spectral Signature
 - Plot intensity across the three bands.
 - Shows how hyperspectral imaging captures unique spectra for each pixel.
 
-6. Results
-- Band 1: Gaussian – smooth, low-frequency information.
-- Band 2: Sobel – gradient edges, structural details.
-- Band 3: Canny – strong edges, high-frequency details.
+## 6. **Results**
+- Band 1: **Gaussian** – smooth, low-frequency information.
+- Band 2: **Sobel** – gradient edges, structural details.
+- Band 3: **Canny** – strong edges, high-frequency details.
 - Feature comparison shows distinct differences across bands.
 - Pixel spectral signature demonstrates intensity variation across bands.
 
@@ -116,7 +116,7 @@ Step 10: Pixel-Level Spectral Signature
 
 
 
-7. Applications and Relevance
+## 7. **Applications and Relevance**
 
 This simulated hyperspectral pipeline demonstrates skills relevant to Milk. Inc’s objectives:
 
@@ -126,9 +126,10 @@ This simulated hyperspectral pipeline demonstrates skills relevant to Milk. Inc�
 
 Demonstrates capability in image processing, spectral thinking, feature extraction, and visualization.
 
-8. How to Run
+## 8. **How to Run**
 
 1. Place sample_image.jpeg in the same folder as the notebook.
 2. Open Simulated_Hyperspectral_Analysis.ipynb.
 3. Run all cells sequentially.
 4. Visualize the three bands and analyze statistical features and pixel-level spectral signatures.
+
