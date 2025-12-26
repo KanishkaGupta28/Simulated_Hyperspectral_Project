@@ -117,7 +117,7 @@ The project demonstrates **band-wise analysis, feature extraction, and pixel-lev
 ![Feature Comparison](feature_comparison.png)
 
 
-##8. **Applications and Relevance**
+## 8. **Applications and Relevance**
 
 This simulated hyperspectral pipeline demonstrates skills relevant to Milk. Inc’s objectives:
 
@@ -129,6 +129,7 @@ Demonstrates capability in image processing, spectral thinking, feature extracti
 
 
  
+
 
 
 
